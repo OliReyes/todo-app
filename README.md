@@ -1,6 +1,6 @@
 # todo-app
 
-> Test for webempresa.
+> Technical test for the company WEBEMPRESA.
 
 ## Build Setup
 
