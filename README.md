@@ -1,15 +1,17 @@
-# todo-app
+# TODO APP
 
-> Technical test for the company WEBEMPRESA.
+> Technical test for the company WEBEMPRESA of a todo app made with VueJS.
 
-## Build Setup
+1. With your command prompt open the folder of the todo-app project.
 
-``` bash
-# install dependencies
+2. Run the following command to install dependencies:
+```
 npm install
+```
 
-# serve with hot reload at localhost:8080
+3. Finally start the app running:
+```
 npm run dev
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Find the app running in localhost:8080
